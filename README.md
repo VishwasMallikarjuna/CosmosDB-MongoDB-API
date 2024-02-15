@@ -1,6 +1,6 @@
 # echo-mongo-api
 
-Simple Golang REST application with Echo Framework & MongoDB
+Golang REST application with Echo Framework & MongoDB
 
 ## Application
 
